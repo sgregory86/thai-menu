@@ -1,0 +1,17 @@
+{
+  "name": "ko-component-demo",
+  "version": "1.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockoutjs": "~3.2.0",
+    "requirejs": "~2.1.15",
+    "requirejs-text": "~2.0.12"
+  }
+}
