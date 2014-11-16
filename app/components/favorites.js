@@ -6,10 +6,10 @@ define([
 
     ko.components.register('menu', {
         viewModel: {
-            require: '../app/viewmodels/component-menu-widget'
+            require: '../app/viewmodels/component-favorites-widget'
         },
         template: {
-            require: 'text!../app/views/component-menu.html'
+            require: 'text!../app/views/component-favorites.html'
         }
     });
 });
