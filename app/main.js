@@ -7,11 +7,9 @@ require.config({
 
 require([
     'knockout',
-    'config/global',
-    'viewmodels/menu',
-    'components/favorites'
-], function(ko, g, menu) {
+    'components/menu'
+], function(ko, vm) {
     'use strict';
 
-    ko.applyBindings(new menu());
+    ko.applyBindings(vm);
 });
