@@ -8,10 +8,7 @@ gulp.task('htmlhint', function() {
 });
 
 gulp.task('jshint', function() {
-    return gulp.src([
-            'app/**/*.js',
-            '!bower_components/**'
-        ])
+    return gulp.src('app/**/*.js')
         .pipe(plug.jshint())
         .pipe(plug.jshint.reporter());
 });
