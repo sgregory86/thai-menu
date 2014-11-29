@@ -1,0 +1,16 @@
+{
+  "name": "thai-menu",
+  "version": "1.0.0",
+  "author": "Steven Gregory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgregory86/thai-menu"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-htmlhint": "0.0.9",
+    "gulp-jshint": "^1.9.0",
+    "gulp-load-plugins": "^0.7.1"
+  }
+}
