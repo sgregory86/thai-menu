@@ -10,9 +10,9 @@
     "tests"
   ],
   "dependencies": {
-    "knockoutjs": "~3.2.0",
-    "requirejs": "~2.1.15",
-    "requirejs-text": "~2.0.12"
+    "knockoutjs": "~3.3.0",
+    "requirejs": "~2.1.18",
+    "requirejs-text": "~2.0.14"
   },
   "homepage": "https://github.com/sgregory86/thai-menu",
   "authors": [
