@@ -1,7 +1,7 @@
 require.config({
     paths: {
         knockout: '../bower_components/knockoutjs/dist/knockout',
-        text: '../bower_components/requirejs-text/text'
+        text: '../bower_components/text/text'
     }
 });
 

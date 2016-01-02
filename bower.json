@@ -11,8 +11,8 @@
   ],
   "dependencies": {
     "knockoutjs": "~3.3.0",
-    "requirejs": "~2.1.18",
-    "requirejs-text": "~2.0.14"
+    "requirejs": "~2.1.22",
+    "text": "~2.0.14"
   },
   "homepage": "https://github.com/stevengregory/thai-menu",
   "authors": [

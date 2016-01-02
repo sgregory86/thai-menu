@@ -11,6 +11,7 @@
     "gulp": "^3.8.10",
     "gulp-htmlhint": "0.0.9",
     "gulp-jshint": "^1.9.0",
+    "gulp-live-server": "0.0.29",
     "gulp-load-plugins": "^0.7.1"
   }
 }
